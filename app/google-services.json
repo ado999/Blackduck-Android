@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284318379253",
+    "firebase_url": "https://blackduck-a3461.firebaseio.com",
+    "project_id": "blackduck-a3461",
+    "storage_bucket": "blackduck-a3461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284318379253:android:6432d8195fa380f94de9bc",
+        "android_client_info": {
+          "package_name": "pl.edu.wat.wcy.blackduck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284318379253-ca46afos7cr0ako67vc2ukn6ocfmjsca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.edu.wat.wcy.blackduck",
+            "certificate_hash": "e8f1814741f46460eb6ed0ff5e5246ae66acafbd"
+          }
+        },
+        {
+          "client_id": "284318379253-mj96jtl0l8vesl0olma8ifumubh1q8pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sjBXh2LMTbBLtPBwKumz3nWnVBqmkNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284318379253-mj96jtl0l8vesl0olma8ifumubh1q8pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

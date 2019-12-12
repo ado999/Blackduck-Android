@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F06292</color>
+    <color name="colorGray">#C3C3C3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="defaultBackground">#F9F9F9</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="dark">#383838</color>
+    <color name="darkdark">#1A1A1A</color>
+    <color name="conv_dark">#333333</color>
+    <color name="conv_opposite">#F0F0F0</color>
+    <color name="conv_own">#0084FF</color>
+    <color name="white_transparent_bg">#C8FFFFFF</color>
+</resources>
